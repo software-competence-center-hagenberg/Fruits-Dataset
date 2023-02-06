@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_4fruits</folder>
+	<filename>20191122_114311.jpg</filename>
+	<path>C:\Users\geiss\Deepred\Tensorflow\workspace\training_demo\images\train\new_4fruits\20191122_114311.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>91</ymin>
+			<xmax>336</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

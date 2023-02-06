@@ -1,0 +1,26 @@
+<annotation>
+	<folder>src_images_reduced</folder>
+	<filename>20190815_094440.jpg</filename>
+	<path>S:\Project_Stuff\Deepred\KEBA_IntelligenterRoboter\ObjectClassificationDetection\keras\Faster_RCNN_for_Open_Images_Dataset_Keras-master\Dataset\images_fruits\src_images_reduced\20190815_094440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>708</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>202</ymin>
+			<xmax>395</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

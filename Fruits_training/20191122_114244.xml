@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_4fruits</folder>
+	<filename>20191122_114244.jpg</filename>
+	<path>C:\Users\geiss\Deepred\Tensorflow\workspace\training_demo\images\train\new_4fruits\20191122_114244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>113</ymin>
+			<xmax>161</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
